@@ -1,2 +1,2 @@
 # LogoLanding
- A responsive landing page, created to learn flex box and grid
+ A responsive landing page, it was created to learn flex box and grid.
